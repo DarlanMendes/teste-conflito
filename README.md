@@ -1,6 +1,4 @@
 # Relação de residente PU12 
-1 - Elton Ribeiro Soares
 
-2 - fulano
+ victoria regia 
 
-3 - sicrano
