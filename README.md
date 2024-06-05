@@ -1,2 +1,6 @@
 # Relação de residente PU12 
-Victoria Régia
+# Relação de residente PU12 
+1 - Darlan
+2 - victoria regia - victoriars.sousa@gmail.com
+3 - Elton
+4 - Beatriz Monteiro
