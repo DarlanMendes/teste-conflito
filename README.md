@@ -1,4 +1,6 @@
 # Relação de residente PU12 
-1 - fulano
-2 - sicrano
-3 - Elton Ribeiro Soares
+1 - Elton Ribeiro Soares
+
+2 - fulano
+
+3 - sicrano
