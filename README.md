@@ -1,7 +1,7 @@
 # Relação de residente PU12
 
-1 - Elton Ribeiro Soares
-
+1 - Darlan
 2 - victoria regia
-
-3 - Hélen
+3 - Elton
+4 - Beatriz Monteiro
+5 - Vitoria Regia
